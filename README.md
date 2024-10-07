@@ -101,3 +101,31 @@ hero = getHero()
 
 export {}
 ```
+
+### Functions in TypeScript
+Functions in TypeScript can be typed, providing better documentation and error checking. You can define the types of the parameters and the return type of the function.
+
+Function Syntax
+```typescript
+function functionName(parameter: type): returnType {
+    // Function logic
+}
+
+```typescript
+
+function add(a: number, b: number): number {
+    return a + b;
+}
+
+const sum = add(5, 10);
+console.log(sum); // 15```
+
+
+```typescript
+function greet(name: string, greeting: string = "Hello"): string {
+    return `${greeting}, ${name}!`;
+}
+
+console.log(greet("Rajeev")); // Hello, Rajeev!
+console.log(greet("Rajeev", "Welcome")); // Welcome, Rajeev!
+```
