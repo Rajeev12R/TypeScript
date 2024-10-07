@@ -1,11 +1,9 @@
+# TypeScript
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
-## TypeScript
 
-<hr>
-
-# Introduction
+## Introduction
 
 **TypeScript** is a strongly typed superset of JavaScript that compiles to plain JavaScript. It provides static type checking, allowing developers to write more robust and scalable code for complex applications.
 
