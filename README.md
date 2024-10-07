@@ -1,9 +1,10 @@
 
 # TypeScript
 
-![TypeScript Logo](https://www.typescriptlang.org/assets/images/logo.svg)
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
-## 📜 Introduction
+
+## Introduction
 
 **TypeScript** is a strongly typed superset of JavaScript that compiles to plain JavaScript. It provides static type checking, allowing developers to write more robust and scalable code for complex applications.
 
@@ -15,19 +16,19 @@ In this project, we explore how TypeScript enhances JavaScript by enforcing type
 - **Modern JavaScript Features**: TypeScript supports the latest ECMAScript features while ensuring compatibility with older browsers.
 - **Tooling Support**: Works well with editors like Visual Studio Code with autocompletion, refactoring, and linting.
 
-## 🚀 Getting Started
+## Getting Started with TypeScript
 
 To run this TypeScript project locally, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo-name/typescript-project.git
-   cd typescript-project
+   git clone https://github.com/Rajeev12R/TypeScript.git
+   cd TypeScript
    ```
 
 2. **Install dependencies**:
    ```bash
-   npm install
+   install node on your PC
    ```
 
 3. **Compile TypeScript**:
@@ -35,10 +36,6 @@ To run this TypeScript project locally, follow the steps below:
    tsc
    ```
 
-4. **Run the project**:
-   ```bash
-   node dist/index.js
-   ```
 
 ## 📝 TypeScript Basics
 
