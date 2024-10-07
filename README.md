@@ -111,17 +111,15 @@ function functionName(parameter: type): returnType {
     // Function logic
 }
 
-```typescript
-
 function add(a: number, b: number): number {
     return a + b;
 }
 
 const sum = add(5, 10);
-console.log(sum); // 15```
+console.log(sum); // 15
 
 
-```typescript
+
 function greet(name: string, greeting: string = "Hello"): string {
     return `${greeting}, ${name}!`;
 }
