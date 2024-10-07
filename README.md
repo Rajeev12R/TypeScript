@@ -80,4 +80,25 @@ graph TD;
 - **Primitive Types**: `Number`, `String`, `Boolean`, `Null`, `Undefined`, `Void`
 - **Complex Types**: `Array`, `Object`, `Tuple`, `Any`
 
+### Syntax for Datatypes
 
+```typescript
+// string 
+let greeeting: string = "Hi Rajeev";
+
+// number - int or float both comes in number datatype
+let userId: number = 334466;
+
+// boolean
+let isLoggedin: boolean = false;
+
+// Any - Used whenever we don't want to get a particular value or typechecking error
+let hero;
+
+function getHero(){
+    return "thor"
+}
+hero = getHero()
+
+export {}
+```
