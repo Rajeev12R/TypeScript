@@ -83,13 +83,4 @@ graph TD;
 - **Primitive Types**: `Number`, `String`, `Boolean`, `Null`, `Undefined`, `Void`
 - **Complex Types**: `Array`, `Object`, `Tuple`, `Any`
 
-## 🌈 Color-coded Example
-
-```typescript
-let isLoggedIn: boolean = false;   // 🔵 Boolean Type
-let userId: number = 334466;       // 🔴 Number Type
-let userName: string = "Rajeev";   // 🟢 String Type
-```
-
-Each data type is represented by a different color for better clarity in the code.
 
