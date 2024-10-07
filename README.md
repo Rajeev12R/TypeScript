@@ -1,8 +1,5 @@
-To create a detailed README for a TypeScript project based on the document you uploaded, I'll incorporate key elements such as code examples, diagrams, and colors to make it visually appealing and informative. Here’s a sample README that includes sections like an introduction, setup instructions, and code examples, along with some visual elements:
 
----
-
-# TypeScript Project
+# TypeScript
 
 ![TypeScript Logo](https://www.typescriptlang.org/assets/images/logo.svg)
 
@@ -96,21 +93,3 @@ let userName: string = "Rajeev";   // 🟢 String Type
 
 Each data type is represented by a different color for better clarity in the code.
 
-## 📦 Project Structure
-
-```
-📦typescript-project
- ┣ 📂src
- ┃ ┣ 📜index.ts         // Main entry file
- ┣ 📂dist               // Compiled JavaScript files
- ┣ 📜tsconfig.json      // TypeScript configuration
- ┣ 📜package.json       // Project dependencies and scripts
-```
-
-## 🤝 Contributing
-
-We welcome contributions to improve this project. Please follow the [contribution guidelines](CONTRIBUTING.md) and ensure to write clean, documented TypeScript code.
-
----
-
-This README is crafted to provide an easy-to-follow guide for any user who wants to get started with TypeScript while highlighting its advantages through examples, diagrams, and color-coded explanations.
