@@ -127,3 +127,19 @@ function greet(name: string, greeting: string = "Hello"): string {
 console.log(greet("Rajeev")); // Hello, Rajeev!
 console.log(greet("Rajeev", "Welcome")); // Welcome, Rajeev!
 ```
+
+### Objects in TypeScript
+Objects in TypeScript can have their structure and types defined clearly, ensuring the properties and methods are type-checked for accuracy.
+
+Defining an Object Type
+In TypeScript, you can define object types explicitly, which adds clarity and enforces strict typing on the object's properties.
+
+```typescript
+let user: { name: string; age: number; isStudent: boolean };
+
+user = {
+    name: "Rajeev",
+    age: 21,
+    isStudent: true
+};
+```
