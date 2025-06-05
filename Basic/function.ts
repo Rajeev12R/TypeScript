@@ -12,6 +12,10 @@ console.log(addTwo(5));
 console.log(getUpper("rajeev"));
 console.log(user("Ram", "ram@gmail.com", false));
 
+function abcd(): boolean {
+    return true;
+}
+console.log(abcd);
 
 
 export {}
