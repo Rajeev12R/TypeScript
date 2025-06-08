@@ -16,3 +16,4 @@ function abcd() {
     return true;
 }
 console.log(abcd);
+log
